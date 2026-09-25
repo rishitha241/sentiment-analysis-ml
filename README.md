@@ -102,6 +102,3 @@ Run the notebook cells from top to bottom.
 
 The dataset is the Cornell Sentence Polarity Dataset v1.0 by Bo Pang and Lillian Lee. Please follow the original dataset's citation requirements when using it in academic or published work.
 
-## Author
-
-**G. Rishitha**
